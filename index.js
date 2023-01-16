@@ -8,4 +8,6 @@ server.get('/imgs',(req,res) =>{
 
 server.listen(3000, ()=>{
     console.log("Funciona")
+    console.log("Funciona")
 });
+
